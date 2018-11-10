@@ -19,6 +19,6 @@ setup(
     version='1.0.0',
     description='Hello World app for running Python apps on Bluemix',
     long_description=long_description,
-    #url='https://github.com/IBM-Bluemix/python-hello-world-flask',
+    url='https://github.com/somnathbm/arya-cheqr',
     license='Apache-2.0'
 )
