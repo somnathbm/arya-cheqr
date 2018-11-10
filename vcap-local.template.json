@@ -1,0 +1,24 @@
+{
+    "AvailabilityMonitoring": [
+        {
+            "name": "availability-monitoring-auto",
+            "instance_name": "availability-monitoring-auto",
+            "binding_name": null,
+            "credentials": {
+                "cred_url": "https://perfbroker.eu-gb.bluemix.net",
+                "token": "hVb9nZyg+kI8HXtz22C4oNkGCRlIrZ9bSNrPO86fzZjQE978WbnfsOgQRLUW8vo8NIGxRaU7K/F5hT/Jn5JyZg=="
+            },
+            "syslog_drain_url": null,
+            "volume_mounts": [],
+            "label": "AvailabilityMonitoring",
+            "provider": null,
+            "plan": "Lite",
+            "tags": [
+                "ibm_created",
+                "bluemix_extensions",
+                "dev_ops",
+                "lite"
+            ]
+        }
+    ]
+}
