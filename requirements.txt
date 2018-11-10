@@ -2,3 +2,4 @@ Flask==0.12.2
 cloudant==2.4.0
 pyzbar==0.1.7
 scikit-image==0.14.1
+zbar==0.10
